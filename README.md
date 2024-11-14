@@ -1,3 +1,5 @@
+[Screenshot-2024-11-13-23-19-34-1366x768.png](https://postimg.cc/RqjY4nQR)
+
 # Gitup - Script de Automación para Git
 
 Este proyecto permite automatizar los pasos básicos de **commit** y **push** en un repositorio Git mediante un script llamado `gitup`.
