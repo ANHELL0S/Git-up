@@ -28,7 +28,7 @@ echo -e "\n${wait} ${yellow}Hang on, we're staging the changes...${reset}"
 git add .
 
 # Mostrar resumen de los cambios
-echo -e "\n${pin} ${blue} Here's a quick look at your changes:${reset}"
+echo -e "\n${pin} ${blue} Here's a quick look at your changes:${reset}\n"
 git status -s
 
 # Confirmar si se quiere hacer el commit
