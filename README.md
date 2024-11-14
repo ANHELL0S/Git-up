@@ -1,4 +1,4 @@
-[Screenshot-2024-11-13-23-19-34-1366x768.png](https://postimg.cc/RqjY4nQR)
+[![Screenshot-2024-11-13-23-19-34-1366x768.png](https://i.postimg.cc/02Q1GYzL/Screenshot-2024-11-13-23-19-34-1366x768.png)](https://postimg.cc/RqjY4nQR)
 
 # Gitup - Script de Automación para Git
 
