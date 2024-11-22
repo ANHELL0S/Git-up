@@ -26,7 +26,7 @@ if ! git rev-parse --is-inside-work-tree &>/dev/null; then
 fi
 
 # Ingresar el mensaje de commit en la misma línea
-echo -e "${pin} ${blue} Enter your commit description:${reset} \c"
+echo -e "\n${pin} ${blue} Enter your commit description:${reset} \c"
 read commit_message
 
 # Agregar cambios al staging area
